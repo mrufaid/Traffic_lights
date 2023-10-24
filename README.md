@@ -25,8 +25,8 @@ This project is a Python implementation of a Convolutional Neural Network (CNN) 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/traffic-sign-recognition.git
-   cd traffic-sign-recognition
+   git clone https://github.com/mrufaid/Traffic_lights
+   cd Traffic_lights
    ```
 
 2. Install the required Python packages:(Not required if you are using google colab)
