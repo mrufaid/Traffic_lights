@@ -83,9 +83,6 @@ The model achieved an accuracy of 82.54% on the test dataset.
 
 ## Contact
 
-For any inquiries or feedback, please contact rufaid2k21@gmail.com]
+For any inquiries or feedback, please contact rufaid2k21@gmail.com
 ```
 
-
-
-Replace `[insert information]` with your specific details, and make sure to provide the necessary acknowledgments, license information, and contact details. This README provides a basic structure, and you can expand it as needed for your project.
