@@ -29,8 +29,7 @@ This project is a Python implementation of a Convolutional Neural Network (CNN) 
    cd traffic-sign-recognition
    ```
 
-2. Install the required Python packages:
-   Not required if you are using google colab
+2. Install the required Python packages:(Not required if you are using google colab)
    ```bash
    pip install -r requirements.txt
    ```
