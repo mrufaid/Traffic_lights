@@ -30,7 +30,7 @@ This project is a Python implementation of a Convolutional Neural Network (CNN) 
    ```
 
 2. Install the required Python packages:
-
+   Not required if you are using google colab
    ```bash
    pip install -r requirements.txt
    ```
