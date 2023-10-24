@@ -1,6 +1,6 @@
 Creating a GitHub README for your Python file is a good way to provide information about your project and how to use the code. Below is a sample README file that you can use as a template for your project. You can customize it with your own project-specific details and formatting.
 
-```markdown
+
 # Traffic Sign Recognition using Convolutional Neural Networks (CNN)
 
 This project is a Python implementation of a Convolutional Neural Network (CNN) for traffic sign recognition. It includes the following components:
