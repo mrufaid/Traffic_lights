@@ -45,7 +45,7 @@ Copy the zip file in main directory in your google drive. Connect your google dr
 2. Run the Python script:
 
    ```bash
-   python traffic_sign_recognition.py
+   python my_project.py
    ```
 
 3. The script will perform data preparation, model training, and evaluation.
