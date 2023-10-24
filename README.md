@@ -1,4 +1,4 @@
-Creating a GitHub README for your Python file is a good way to provide information about your project and how to use the code. Below is a sample README file that you can use as a template for your project. You can customize it with your own project-specific details and formatting.
+This project was done in Google colab
 
 
 # Traffic Sign Recognition using Convolutional Neural Networks (CNN)
@@ -38,7 +38,7 @@ This project is a Python implementation of a Convolutional Neural Network (CNN) 
 ### Usage
 
 1. Unzip the dataset:
-
+Copy the zip file in main directory in your google drive. Connect your google drive with google colab.
    ```bash
    unzip /content/drive/MyDrive/test.zip
    ```
@@ -69,23 +69,24 @@ The CNN model used for traffic sign recognition has the following architecture:
 
 ## Results
 
-The model achieved an accuracy of [insert accuracy] on the test dataset.
+The model achieved an accuracy of 82.54% on the test dataset.
 
 ## License
 
-This project is licensed under the [insert license name] License - see the [LICENSE](LICENSE) file for details.
-
+-
 ## Acknowledgments
 
-- Dataset source: [insert dataset source]
+- Dataset source: https://www.kaggle.com/datasets/ahemateja19bec1025/traffic-sign-dataset-classification/data
 
 ## Author
 
-- Your Name
+- Muhammad Rufaid Peerzada
 
 ## Contact
 
-For any inquiries or feedback, please contact [your email address].
+For any inquiries or feedback, please contact rufaid2k21@gmail.com]
 ```
+
+
 
 Replace `[insert information]` with your specific details, and make sure to provide the necessary acknowledgments, license information, and contact details. This README provides a basic structure, and you can expand it as needed for your project.
