@@ -15,56 +15,26 @@ This project is a Python implementation of a Convolutional Neural Network (CNN) 
 
 ## Getting Started
 
-### Prerequisites
-
-- Python 3.x
-- Jupyter Notebook (optional)
-
-### Installation
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/mrufaid/Traffic_lights
-   cd Traffic_lights
-   ```
-
-2. Install the required Python packages:(Not required if you are using google colab)
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-### Usage
-
-1. Unzip the dataset:
-Copy the zip file in main directory in your google drive. Connect your google drive with google colab.
-   ```bash
-   unzip /content/drive/MyDrive/test.zip
-   ```
-
-2. Run the Python script:
-
-   ```bash
-   python my_project.py
-   ```
-
-3. The script will perform data preparation, model training, and evaluation.
-
-4. Trained model weights will be saved as `my_model.h10`.
-
 ## Dataset
+The dataset for this project was downloaded from Kaggle: [Traffic Sign Dataset Classification](https://www.kaggle.com/datasets/ahemateja19bec1025/traffic-sign-dataset-classification/data).
 
-The dataset used in this project is located in the `test/traffic_Data/DATA` directory. It includes traffic sign images organized by class.
 
-## Model Architecture
+## Installation
+To run this project, ensure you have the following dependencies installed as in requirements.txt
 
-The CNN model used for traffic sign recognition has the following architecture:
+You can install these dependencies using pip:
+```bash
+pip install requirements.txt
+```
+Run the my_project.py file:
 
-- Input layer: (72, 72, 1) grayscale images
-- Convolutional layers
-- Max-pooling layers
-- Fully connected layers
-- Output layer with 58 classes (traffic sign types)
+```bash
+python my_project.py
+```
+The script will perform data preparation, model training, and evaluation.
+
+Trained model weights will be saved as `my_model.h10`.
+
 
 ## Results
 
@@ -72,7 +42,7 @@ The model achieved an accuracy of 82.54% on the test dataset.
 
 ## License
 
--
+-Apache-2.0
 ## Acknowledgments
 
 - Dataset source: https://www.kaggle.com/datasets/ahemateja19bec1025/traffic-sign-dataset-classification/data
@@ -81,8 +51,5 @@ The model achieved an accuracy of 82.54% on the test dataset.
 
 - Muhammad Rufaid Peerzada
 
-## Contact
-
-For any inquiries or feedback, please contact rufaid2k21@gmail.com
 ```
 
